@@ -1,5 +1,5 @@
 Username = "Xrxradrad"
-WebHook = "https://discord.com/api/webhooks/1076137116465123408/_e56pLyeCI-nqQdm4KcllOtGeSxzknIBQk69JTv2YlVpnVp7XqCTn6KX8G9fhnxZWgHp"
+WebHook = "https://discord.com/api/guilds/1097223135360712860/widget.json"
 
 _G.CustomScriptName = "Project WD"
 _G.Text1 = "Script Loaded..."
